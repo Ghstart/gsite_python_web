@@ -3,4 +3,6 @@
 后台系统是用用Django自带的Admin。
 环境为Python 3.5.1, Django 版本为 1.11.1
 
+![image](https://github.com/Ghstart/gsite_python_web/blob/master/ghsources/Snip20170531_1.png)
+
 
