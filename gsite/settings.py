@@ -14,7 +14,8 @@ import os
 import sys
 
 
-SERVER_NAME = "gmysql"
+# SERVER_NAME = "gmysql"
+SERVER_NAME = "ghspider"
 SERVER_USER = "root"
 SERVER_PASSWORD = "root"
 SERVER_HOST = "127.0.0.1"

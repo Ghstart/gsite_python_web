@@ -6,5 +6,6 @@ from django.conf.urls import url
 from . import views
 
 urlpatterns = [
-                url(r'^$', views.index, name='index')
+                url(r'^$', views.index, name='index'),
+                url(r'^job/(?P<page>\d+)$', views.job, name='job'),
                 ]
