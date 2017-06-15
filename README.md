@@ -5,6 +5,13 @@
 
 3. 环境为Python 3.5.1, Django 版本为 1.11.1
 
-![image](https://github.com/Ghstart/gsite_python_web/blob/master/ghsources/Snip20170531_1.png)
+4. 一部分数据可以自己编辑，一部分数据可以通过Scrapy 来爬去,目前已经爬去的网站：
+
+> http://date.jobbole.com/   （伯乐在线）
+
+![image](https://github.com/Ghstart/gsite_python_web/blob/master/ghsources/Snip20170615_3.png)
+---
+![image](https://github.com/Ghstart/gsite_python_web/blob/master/ghsources/Snip20170615_1.png)
+---
 
 
